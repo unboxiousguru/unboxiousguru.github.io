@@ -1,2 +1,2 @@
 # unboxiousguru.github.io
-CDN of UnboxiousGuru.co
+CDN of UnboxiousGuru.com
